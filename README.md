@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Cyber Security Engineer, not really a Programmer, but I have some knowledge of programming. Check out my Projects below!
 <!--
 **Klentz37/Klentz37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
