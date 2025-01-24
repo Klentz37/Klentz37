@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 🛠️ Technologies & Tools
 <h3>Programming Languages</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -36,4 +36,24 @@ Here are some ideas to get you started:
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-00A4EF?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Microsoft 365" src="https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?klentz37&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=dark)
+
+## 💼 Some of My Projects
+
+Here are a few projects I’ve worked on:
+
+### Project 1
+[Hipaa Quest](https://github.com/Klentz37/HipaaQuest)  
+Description: A 2D Unity Training Simulator for Hipaa.
+
+### Project 2
+[My Website](https://klentz37.github.io)  
+Description: Check out My Website!
+
+### Project 3
+[My Porfolio](https://github.com/Klentz37/Porfolio)  
+Description: Home to My projects and Files.
 
