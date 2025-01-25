@@ -45,15 +45,14 @@ Here are some ideas to get you started:
 
 Here are a few projects I’ve worked on:
 
-### Project 1
+### Games:
 [Hipaa Quest](https://github.com/Klentz37/HipaaQuest)  
 Description: A 2D Unity Training Simulator for Hipaa.
 
-### Project 2
-[My Website](https://klentz37.github.io)  
-Description: Check out My Website!
+### Coding Projects
+[Password Generator](https://github.com/Klentz37/Porfolio/)  
+Description: A Basic Python Password Generator 
 
-### Project 3
+### Security Projects
 [My Porfolio](https://github.com/Klentz37/Porfolio)  
 Description: Home to My projects and Files.
-
