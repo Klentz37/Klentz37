@@ -50,9 +50,25 @@ Here are a few projects I’ve worked on:
 Description: A 2D Unity Training Simulator for Hipaa.
 
 ### Coding Projects
-[Password Generator](https://github.com/Klentz37/Porfolio/)  
+[Password Generator](https://github.com/Klentz37/Portfolio/)  
 Description: A Basic Python Password Generator 
 
 ### Security Projects
-[My Porfolio](https://github.com/Klentz37/Porfolio)  
+[My Porfolio](https://github.com/Klentz37/Portfolio)  
 Description: Home to My projects and Files.
+
+
+## 🌐 Websites to use
+
+Programming
+--
+- [Live Markdown Preview](https://markdownlivepreview.com/)
+
+CyberSecurity
+--
+- [Live Threat Map](https://cybermap.kaspersky.com/)
+- 
+
+Misc
+--
+- [Speed Test](https://speed.cloudflare.com/)
